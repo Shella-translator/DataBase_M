@@ -11,7 +11,7 @@
 Представлено в файлах:
 1. https://github.com/EVLesnykh/DataBase_M/blob/main/%D0%91%D0%94%20%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9B%D0%B5%D1%81%D0%BD%D1%8B%D1%85%20%D0%95.%D0%92.xlsx
 2. https://github.com/EVLesnykh/DataBase_M/blob/main/%D0%91%D0%94%20%D0%9C%D1%83%D0%B7%D0%B5%D0%B9.drawio.jpg
-3. 
+3. https://github.com/EVLesnykh/DataBase_M/blob/main/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6%20%D0%BF%D0%BE%D1%81%D0%B5%D1%89-%D0%B5%20%D0%BC%D1%83%D0%B7%D0%B5%D1%8F.jpg
 
 ## **Сценарий использования базы данных музея:**
 
